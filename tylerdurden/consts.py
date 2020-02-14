@@ -1,0 +1,1 @@
+THUMBNAILS_DIR = "/var/tylerdurden/thumbnails"
